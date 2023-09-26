@@ -1,0 +1,9 @@
+.aditional-property {
+   display: grid;
+   gap: 36px;
+}
+
+.aditional-property__list {
+   display: grid;
+   gap: 36px;
+}

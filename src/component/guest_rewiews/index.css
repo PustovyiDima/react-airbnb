@@ -1,0 +1,38 @@
+.review-list {
+   display: grid;
+   gap: 24px;
+}
+
+.review-list__values {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   gap: 20px;
+}
+
+.review-list__item {
+   display: grid;
+   gap: 24px;
+}
+.review-list__block {
+   display: flex;
+   justify-content: space-between;
+}
+
+.review-list__title {
+   color: #000;
+   font-size: 16px;
+   font-weight: 700;
+}
+
+.review-list__rating {
+   color: #000;
+   font-size: 16px;
+   font-weight: 400;
+}
+
+.review-list__info {
+   color: #000;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 1.5em;
+}

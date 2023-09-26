@@ -1,0 +1,9 @@
+.nearby-property {
+   display: grid;
+   gap: 24px;
+}
+
+.nearby-link {
+   color: #000;
+   font-size: 16px;
+}

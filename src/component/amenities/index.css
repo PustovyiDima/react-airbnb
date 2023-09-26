@@ -1,0 +1,9 @@
+.property {
+   display: grid;
+   gap: 24px;
+}
+
+.property__list {
+   display: grid;
+   gap: 24px;
+}
